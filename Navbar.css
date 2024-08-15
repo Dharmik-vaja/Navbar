@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    font-family: Cooper;
+}
+nav ul{
+    background-color: rgb(6, 0, 56);
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+nav a{
+    font-family: Eras ITC;
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    
+}
+h3,h5{
+    font-family: Arial;
+}
+nav a:hover{
+    background-color: darkorchid;
+}
+nav li{
+    float: left;
+}
